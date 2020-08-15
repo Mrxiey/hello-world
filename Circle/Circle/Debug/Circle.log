@@ -1,0 +1,4 @@
+﻿  Circle.c
+D:\Microsoft Visual Studio 2019\source\repos\Circle\Circle\Circle.c(12,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio 2019\source\repos\Circle\Circle\Circle.c(13,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Circle.vcxproj -> D:\Microsoft Visual Studio 2019\source\repos\Circle\Debug\Circle.exe

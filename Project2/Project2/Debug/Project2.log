@@ -1,0 +1,4 @@
+﻿  源.c
+D:\Microsoft Visual Studio 2019\source\repos\Project2\Project2\源.c(7,1): warning C4305: “初始化”: 从“int”到“unsigned char”截断
+D:\Microsoft Visual Studio 2019\source\repos\Project2\Project2\源.c(9,1): warning C4305: “初始化”: 从“int”到“char”截断
+  Project2.vcxproj -> D:\Microsoft Visual Studio 2019\source\repos\Project2\Debug\Project2.exe

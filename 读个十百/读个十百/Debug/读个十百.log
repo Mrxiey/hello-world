@@ -1,0 +1,8 @@
+﻿  打印.c
+C:\Users\Administrator\source\repos\读个十百\读个十百\打印.c(8,24): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\Administrator\source\repos\读个十百\读个十百\打印.c(8,24): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\Administrator\source\repos\读个十百\读个十百\打印.c(9,32): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\Administrator\source\repos\读个十百\读个十百\打印.c(9,32): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\Administrator\source\repos\读个十百\读个十百\打印.c(10,25): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\Administrator\source\repos\读个十百\读个十百\打印.c(10,25): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  读个十百.vcxproj -> C:\Users\Administrator\source\repos\读个十百\Debug\读个十百.exe
